@@ -13,4 +13,6 @@ I also learned from the Xpert Learning Assistant to place a semicolon at the end
 
 In the Boxplot section, I used this code from Xpert Learning Assistant in order to correctly label the x-axis: ax1.set_xticks(range(1, len(treatments) + 1)). 
 
+In the Correlation and Regression section, I learned to use the .flatten() method and change the variable formats to arrays in order to create the linear regression from the Xpert Learning Assistant. I also got the pearsonr() syntax for this line of code: correlation_coefficient, p_value = pearsonr(mouse_weight, tumor_avg_vol) from the Xpert Learning Assistant. 
+
 I got the color "cornflowerblue" from this site to use in my graphs: https://matplotlib.org/stable/gallery/color/named_colors.html
